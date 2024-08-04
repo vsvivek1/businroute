@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426212477314",
+    "project_id": "businroute-776a9",
+    "storage_bucket": "businroute-776a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426212477314:android:f85c3abbd1b21388e0e79b",
+        "android_client_info": {
+          "package_name": "com.businroute.find"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbgwgeVt0aGbtPwwXeiChTuxrmMh3f6cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
