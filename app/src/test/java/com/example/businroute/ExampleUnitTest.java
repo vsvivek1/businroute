@@ -1,4 +1,4 @@
-package com.example.businroute;
+package com.businroute.findbus;
 
 import org.junit.Test;
 

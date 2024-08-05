@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.businroute'
+    namespace 'com.businroute.findbus'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.businroute"
+        applicationId "com.businroute.findbus"
         minSdk 29
         targetSdk 33
         versionCode 1
